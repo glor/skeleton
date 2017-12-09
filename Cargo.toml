@@ -1,0 +1,6 @@
+[package]
+name = "skeleton"
+version = "0.1.0"
+authors = ["lorenz.glimann@stud.uni-goettingen.de <lorenz.glimann@stud.uni-goettingen.de>"]
+
+[dependencies]
